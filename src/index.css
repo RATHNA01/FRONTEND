@@ -9,11 +9,11 @@ a{
   font-size: x-large !important;
   font-weight: bolder !important;
 }
-/*footer{
+footer{
   position: fixed;
   bottom: 0;
   width: 50%;
-}*/
+}
 .card {
   border: 3px solid black;
 }
